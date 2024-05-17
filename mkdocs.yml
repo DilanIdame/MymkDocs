@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: My test
 theme: 
     name: material
     custom-dir: overrides
@@ -16,20 +16,3 @@ theme:
     - navigation.top
     - navigation.tracking
     - navigation.footer
-  palette: 
-
-    # Palette toggle for light mode
-    - scheme: default
-      primary: blue
-      accent: deep orange
-      toggle:
-        icon: material/weather-sunny 
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: teal
-      accent: deep orange
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
